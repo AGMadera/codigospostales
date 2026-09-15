@@ -352,5 +352,6 @@ Este proyecto está bajo la licencia **MIT**. Consulta el archivo [LICENSE](LICE
 
 ## 📬 Contacto
 
-- **Autor:** Agmadera
+- **Autor:** AGMadera
 - **Repositorio:** [github.com/agmadera/codigospostalesmex](https://github.com/agmadera/codigospostalesmex)
+- **Correo:** agmadera@protonmail.com
